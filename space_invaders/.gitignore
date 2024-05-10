@@ -1,5 +1,5 @@
 .vs/
-.dll/
+*.dll
 x64/
 space_invaders.sln
 space_invaders.vcxproj.filters
